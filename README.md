@@ -8,7 +8,7 @@ The purpose of this challenge is to ass credit risk. Credit risk is an inherentl
 ![Naive Random Overampling](https://github.com/andreabassetti/Credit_Risk_Analysis/blob/main/Resources/Naive%20Random%20Oversampling.png)
 
 - SMOTE Oversampling: The balances accuracy test was 64%, the precision for the high_risk was 1% and the recall was 60%, and lastly the precision for the low_risk was 100% and the recall was 69%.
-![SMOTE Oversampling](https://github.com/andreabassetti/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Oversampling.png)
+![SMOTE Oversampling2](https://github.com/andreabassetti/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Oversampling.png)
 
 - Undersampling: The balances accuracy test was 64%, the precision for the high_risk was 1% and the recall was 60%, and lastly the precision for the low_risk was 100% and the recall was 69%.
 ![Undersampling](https://github.com/andreabassetti/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png)
